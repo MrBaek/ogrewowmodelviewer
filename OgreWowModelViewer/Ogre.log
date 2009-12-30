@@ -1,0 +1,37 @@
+22:52:42: Creating resource group General
+22:52:42: Creating resource group Internal
+22:52:42: Creating resource group Autodetect
+22:52:42: SceneManagerFactory for type 'DefaultSceneManager' registered.
+22:52:42: Registering ResourceManager for type Material
+22:52:42: Registering ResourceManager for type Mesh
+22:52:42: Registering ResourceManager for type Skeleton
+22:52:42: MovableObjectFactory for type 'ParticleSystem' registered.
+22:52:42: OverlayElementFactory for type Panel registered.
+22:52:42: OverlayElementFactory for type BorderPanel registered.
+22:52:42: OverlayElementFactory for type TextArea registered.
+22:52:42: Registering ResourceManager for type Font
+22:52:42: ArchiveFactory for archive type FileSystem registered.
+22:52:42: ArchiveFactory for archive type Zip registered.
+22:52:42: FreeImage version: 3.10.0
+22:52:42: This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
+22:52:42: Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,cut,xbm,xpm,gif,hdr,g3,sgi,exr,j2k,j2c,jp2
+22:52:42: DDS codec registering
+22:52:42: Registering ResourceManager for type HighLevelGpuProgram
+22:52:42: Registering ResourceManager for type Compositor
+22:52:42: MovableObjectFactory for type 'Entity' registered.
+22:52:42: MovableObjectFactory for type 'Light' registered.
+22:52:42: MovableObjectFactory for type 'BillboardSet' registered.
+22:52:42: MovableObjectFactory for type 'ManualObject' registered.
+22:52:42: MovableObjectFactory for type 'BillboardChain' registered.
+22:52:42: MovableObjectFactory for type 'RibbonTrail' registered.
+22:52:42: OGRE EXCEPTION(6:FileNotFoundException): 'plugins.cfg' file not found! in ConfigFile::load at f:\codingextra\ogre\shoggoth_vc9\ogre\ogremain\src\ogreconfigfile.cpp (line 84)
+22:52:42: plugins.cfg not found, automatic plugin loading disabled.
+22:52:42: *-*-* OGRE Initialising
+22:52:42: *-*-* Version 1.6.2 (Shoggoth)
+22:52:42: Loading library RenderSystem_Direct3D9_d
+22:52:42: Installing plugin: D3D9 RenderSystem
+22:52:42: D3D9 : Direct3D9 Rendering Subsystem created.
+22:52:43: D3D9: Driver Detection Starts
+22:52:43: D3D9: Driver Detection Ends
+22:52:43: Plugin successfully installed
+22:52:43: OGRE EXCEPTION(6:FileNotFoundException): 'ogre.cfg' file not found! in ConfigFile::load at f:\codingextra\ogre\shoggoth_vc9\ogre\ogremain\src\ogreconfigfile.cpp (line 84)
