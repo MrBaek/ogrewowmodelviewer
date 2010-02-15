@@ -1,7 +1,5 @@
 #include "OgreMain.h"
 
-#include "MPQ.h"
-
 INT WINAPI WinMain( HINSTANCE hInstance, HINSTANCE, LPSTR strCmdLine, INT )
 {
 	try
