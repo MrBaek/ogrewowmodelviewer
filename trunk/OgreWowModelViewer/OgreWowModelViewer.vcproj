@@ -216,16 +216,16 @@
 			</File>
 		</Filter>
 		<Filter
-			Name="MPQ"
+			Name="WOW"
 			>
-			<File
-				RelativePath=".\MPQ.h"
+			<Filter
+				Name="libmpq"
 				>
-			</File>
-			<File
-				RelativePath=".\MPQ_libmpq.h"
-				>
-			</File>
+				<File
+					RelativePath=".\WOW\libmpq\common.h"
+					>
+				</File>
+			</Filter>
 		</Filter>
 	</Files>
 	<Globals>
