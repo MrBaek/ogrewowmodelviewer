@@ -222,7 +222,15 @@
 				Name="libmpq"
 				>
 				<File
+					RelativePath=".\WOW\libmpq\common.cpp"
+					>
+				</File>
+				<File
 					RelativePath=".\WOW\libmpq\common.h"
+					>
+				</File>
+				<File
+					RelativePath=".\WOW\libmpq\mpq.h"
 					>
 				</File>
 			</Filter>
